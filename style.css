@@ -1,0 +1,205 @@
+ section {
+    border: 10px dashed steelblue;
+    padding: 2em;
+    margin: 5em auto;
+    width: 600px;
+    height: 640px;
+
+    position: relative;
+ }
+
+ 
+/*posicionamiento*/
+
+.img-croquis {
+    position:absolute;
+    height:600px;
+    width:590px;
+    z-index: -1;
+    inset: 0;
+    margin: auto;
+}
+
+.img-entr {
+    position:absolute;
+    height:25px;
+    width:70px;
+    top: 438px;
+    left : 255px;
+    z-index: 1;
+}
+
+.img-salones19 {
+    position:absolute;
+    height:25px;
+    width:87px;
+    top: 387px;
+    left : 369px;
+    z-index: 1;
+}
+
+.img-servicios {
+    position:absolute;
+    height:28px;
+    width:100px;
+    top: 426px;
+    left : 274px;
+    z-index: 1;
+}
+
+.img-salo23master {
+    position:absolute;
+    height:28px;
+    width:72px;
+    top: 425px;
+    left : 189px;
+    z-index: 1;
+
+}
+
+.img-salonesfisi {
+    position:absolute;
+    height:39px;
+    width:95px;
+    top: 325px;
+    left : 418px;
+    z-index: 1;
+
+}
+
+.img-salaaudivi {
+    position:absolute;
+    height:33px;
+    width:34px;
+    top: 386px;
+    left : 228px;
+    z-index: 1;
+}
+
+.img-biblisalasquimi {
+    position: absolute;
+    height: 34px;
+    width: 66px;
+    top: 338px;
+    left: 180px;
+    z-index: 1;
+}
+
+.img-tiendakfe {
+    position: absolute;
+    height: 490px;
+    height: 30px;
+    top: 340px;
+    left: 160px;
+    z-index: 1;
+}
+
+.img-salasyadminstracci {
+    position: absolute;
+    height: 30px;
+    width: 90px;
+    top: 272px;
+    left: 200px;
+    z-index: 1;
+}
+
+.img-salones1al6ymecatro {
+    position: absolute;
+    height: 30px;
+    width: 90px;
+    top: 300px;
+    left: 315px;
+    z-index: 1;
+}
+
+.img-salonesalimentos {
+    position: absolute;
+    height: 30px;
+    width: 38px;
+    top: 406px;
+    left: 470px;
+    z-index: 1;
+   
+}
+
+.img-salondemecanica {
+    position: absolute;
+    height: 52px;
+    width: 55px;
+    top: 337px;
+    left: 542px;
+    z-index: 1;
+}
+
+.img-salasdealimentos {
+    position: absolute;
+    height: 26px;
+    width: 60px;
+    top: 264px;
+    left: 411px;
+    z-index: 1;
+}
+
+.img-salasdealimentos2 {
+    position: absolute;
+    height: 30px;
+    width: 37px;
+    top: 227px;
+    left: 455px;
+    z-index: 1;
+}
+
+.img-bano3 {
+    position: absolute;
+    height: 25px;
+    
+    top: 225px;
+    left: 432px;
+    z-index: 1;
+}
+
+.img-salon1314hasta {
+    position: absolute;
+    height: 25px;
+    width: 48px;
+    top: 255px;
+    left: 500px;
+    z-index: 1;
+}
+
+.img-tallerdecompu {
+    position: absolute;
+    height: 30px;
+    width: 40px;
+    top: 259px;
+    left: 561px;
+    z-index: 1;
+}
+
+.img-salondel18al23 {
+    position: absolute;
+    height: 25px;
+    width: 82px;
+    top: 215px;
+    left: 498px;
+    z-index: 1;
+}
+
+.img-bano2 {
+    position:absolute;
+    height:19px;
+    width: 10;
+    top: 387px;
+    left : 188px;
+    z-index: 1;
+}
+
+.img-patio1y2 {
+    position: absolute;
+    height: 89px;
+    width: 140px;
+    top: 178px;
+    left: 260px;
+    z-index: 1;
+
+}
